@@ -1,2 +1,3 @@
 #!/bin/bash
-chgrp --reference=olleh hello
+groups
+
